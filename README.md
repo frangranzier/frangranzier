@@ -28,8 +28,8 @@ Hey! My name is Francisco, I'm a Computer Engineering student on my first semest
         <td align=center><strong>🏅Top Languages</strong></td>
       </tr>
       <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=frangranzier&show_icons=true&locale=en&theme=dracula&hide_border=true" height="300"=true/></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=frangranzier&show_icons=true&locale=en&theme=dracula&hide_border=true" height="300"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=frangranzier&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" height="300"=true/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=frangranzier&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" height="300"/></td>
       </tr>
     </table>
 
