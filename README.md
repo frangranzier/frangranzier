@@ -4,7 +4,7 @@
 :brazil: [Português](README-pt.md)
 
 ## :wave: About me
-Hey! My name is Francisco, I'm a Computer Engineering student on my first semester. I'm currently learning C in my Programming Languages class, and learning the basics of cybersecurity on my own off campus. I've been coding since 2021.
+Hey! My name is Francisco, I'm a Computer Engineering student on my first semester. I'm currently learning C in my Programming Languages class, and learning the basics of cybersecurity on my own off campus. I've been coding since 2021, starting off with python.
 
 ## :computer: Tech Stack
 ### Currently, I'm proficient with:
