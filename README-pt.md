@@ -29,8 +29,8 @@ Opa! Meu nome é Francisco, e eu sou um estudante de Engenharia da Computação,
         <td align=center><strong>:medal_sports: Linguagens mais utilizadas</strong></td>
       </tr>
       <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=frangranzier&show_icons=true&locale=en&theme=dracula&hide_border=true" height="300"=true/></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=frangranzier&show_icons=true&locale=en&theme=dracula&hide_border=true" height="300"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=frangranzier&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" height="300"=true/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=frangranzier&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" height="300"/></td>
       </tr>
     </table>
 
