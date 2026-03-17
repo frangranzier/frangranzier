@@ -1,10 +1,12 @@
-# 👋 🌎 Olá, mundo!
+# :earth_americas: Hello, world!
 
-🇬🇧 [English](README.md)<br>
-🇧🇷 [Português](README-pt.md)
+:gb: [English](README.md)<br>
+:brazil: [Português](README-pt.md)
 
+## :wave: Sobre mim
 Opa! Meu nome é Francisco, e eu sou um estudante de Engenharia da Computação, e estou no meu primeiro semestre. No momento, estou aprendendo C na minha aula de Linguagens de Programação e aprendendo o básico de cibersegurança sozinho no meu tempo livre. Eu comecei a programar em 2021, com python.
-## 💻 Stack de technologia
+
+## :computer: Stack de technologia
 ### Atualmente, eu sou proficiente com:
 <div align="left"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -19,12 +21,12 @@ Opa! Meu nome é Francisco, e eu sou um estudante de Engenharia da Computação,
 
 <br>
 
-## ⚡ Minhas Estatísticas
+## :zap: Minhas Estatísticas
 <div>
     <table><br>
       <tr>
-        <td align=center><strong>📊 Estatísticas Gerais</strong></td>
-        <td align=center><strong>🏅Linguagens mais utilizadas</strong></td>
+        <td align=center><strong>:bar_chart: Estatísticas Gerais</strong></td>
+        <td align=center><strong>:medal_sports: Linguagens mais utilizadas</strong></td>
       </tr>
       <tr>
         <td><img src="https://github-readme-stats.vercel.app/api?username=frangranzier&show_icons=true&locale=en&theme=dracula&hide_border=true" height="300"=true/></td>
