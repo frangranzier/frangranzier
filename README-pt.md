@@ -19,11 +19,10 @@ Opa! Meu nome é Francisco, e eu sou um estudante de Engenharia da Computação,
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 </div>
 
-<br>
 
 ## :zap: Minhas Estatísticas
 <div>
-    <table><br>
+    <table>
       <tr>
         <td align=center><strong>:bar_chart: Estatísticas Gerais</strong></td>
         <td align=center><strong>:medal_sports: Linguagens mais utilizadas</strong></td>
