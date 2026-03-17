@@ -1,11 +1,11 @@
-# 👋 🌎 Hello, world!
+# :wave: :earth_americas: Hello, world!
 
-🇬🇧 [English](README.md)<br>
-🇧🇷 [Português](README-pt.md)
+:gb: [English](README.md)<br>
+:brazil: [Português](README-pt.md)
 
 Hey! My name is Francisco, I'm a Computer Engineering student on my first semester. I'm currently learning C in my Programming Languages class, and learning the basics of cybersecurity on my own off campus. I've been coding with python and a few other languages since 2021, so feel free to check out some of my old and current projects!
 
-## 💻 Tech Stack
+## :computer: Tech Stack
 ### Currently, I'm proficient with:
 <div align="left"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -20,12 +20,12 @@ Hey! My name is Francisco, I'm a Computer Engineering student on my first semest
 
 <br>
 
-## ⚡ My stats
+## :zap: My stats
 <div>
     <table><br>
       <tr>
-        <td align=center><strong>📊 General Stats</strong></td>
-        <td align=center><strong>🏅Top Languages</strong></td>
+        <td align=center><strong>:bar_chart: General Stats</strong></td>
+        <td align=center><strong>:medal_sports: Top Languages</strong></td>
       </tr>
       <tr>
         <td><img src="https://github-readme-stats.vercel.app/api?username=frangranzier&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" height="300"=true/></td>
