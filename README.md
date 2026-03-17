@@ -3,8 +3,10 @@
 :gb: [English](README.md)<br>
 :brazil: [Português](README-pt.md)
 
+
 ## :wave: About me
 Hey! My name is Francisco, I'm a Computer Engineering student on my first semester. I'm currently learning C in my Programming Languages class, and learning the basics of cybersecurity on my own off campus. I've been coding since 2021, starting off with python.
+
 
 ## :computer: Tech Stack
 ### Currently, I'm proficient with:
@@ -19,11 +21,10 @@ Hey! My name is Francisco, I'm a Computer Engineering student on my first semest
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 </div>
 
-<br>
 
 ## :zap: My stats
 <div>
-    <table><br>
+    <table>
       <tr>
         <td align=center><strong>:bar_chart: General Stats</strong></td>
         <td align=center><strong>:medal_sports: Top Languages</strong></td>
