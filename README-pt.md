@@ -3,7 +3,7 @@
 🇬🇧 [English](README.md)<br>
 🇧🇷 [Português](README-pt.md)
 
-Opa! Meu nome é Francisco, e eu sou um estudante de Engenharia da Computação, e estou no meu primeiro semestre. No momento, estou aprendendo C na minha aula de Lingugens de Programação e aprendendo o básico de cibersegurança sozinho no meu tempo livre. Eu comecei a programar em 2021, com python.
+Opa! Meu nome é Francisco, e eu sou um estudante de Engenharia da Computação, e estou no meu primeiro semestre. No momento, estou aprendendo C na minha aula de Linguagens de Programação e aprendendo o básico de cibersegurança sozinho no meu tempo livre. Eu comecei a programar em 2021, com python.
 ## 💻 Stack de technologia
 ### Atualmente, eu sou proficiente com:
 <div align="left"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
