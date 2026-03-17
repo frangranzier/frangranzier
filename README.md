@@ -1,9 +1,10 @@
-# :wave: :earth_americas: Hello, world!
+# :earth_americas: Hello, world!
 
 :gb: [English](README.md)<br>
 :brazil: [Português](README-pt.md)
 
-Hey! My name is Francisco, I'm a Computer Engineering student on my first semester. I'm currently learning C in my Programming Languages class, and learning the basics of cybersecurity on my own off campus. I've been coding with python and a few other languages since 2021, so feel free to check out some of my old and current projects!
+## :wave: About me
+Hey! My name is Francisco, I'm a Computer Engineering student on my first semester. I'm currently learning C in my Programming Languages class, and learning the basics of cybersecurity on my own off campus. I've been coding since 2021.
 
 ## :computer: Tech Stack
 ### Currently, I'm proficient with:
