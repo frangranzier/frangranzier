@@ -4,7 +4,7 @@
 :brazil: [Português](README-pt.md)
 
 ## :wave: Sobre mim
-Opa! Meu nome é Francisco, e eu sou um estudante de Engenharia da Computação, e estou no meu primeiro semestre. No momento, estou aprendendo C na minha aula de Linguagens de Programação e aprendendo o básico de cibersegurança sozinho no meu tempo livre. Eu comecei a programar em 2021, com python.
+Opa! Meu nome é Francisco, eu sou um estudante de Engenharia da Computação, e estou no meu primeiro semestre. No momento, estou aprendendo C na minha aula de Programação de Computadores e aprendendo o básico de cibersegurança sozinho no meu tempo livre. Eu comecei a programar em 2021, com python.
 
 ## :computer: Stack de technologia
 ### Atualmente, eu sou proficiente com:
