@@ -16,21 +16,5 @@ Opa! Meu nome é Francisco, eu sou um estudante de Engenharia da Computação, e
 
 ### Estou aprendendo:
 <div align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-</div>
-
-
-## :zap: Minhas Estatísticas
-<div>
-    <table>
-      <tr>
-        <td align=center><strong>:bar_chart: Estatísticas Gerais</strong></td>
-        <td align=center><strong>:medal_sports: Linguagens mais utilizadas</strong></td>
-      </tr>
-      <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=frangranzier&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" height="300"=true/></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=frangranzier&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" height="300"/></td>
-      </tr>
-    </table>
-
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://camo.githubusercontent.com/21ad54163aab56751c0d2170c714b47fa7c5ed157af6f8f12f2d8a8c55d70256/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4537364630313f6c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765">
 </div>
